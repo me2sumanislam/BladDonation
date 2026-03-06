@@ -1,0 +1,17 @@
+ .donor-list{
+  text-align:center;
+  padding:50px 0;
+}
+
+.cards{
+  display:flex;
+  justify-content:center;
+  gap:20px;
+}
+
+.donor-card{
+  border:1px solid #ccc;
+  border-radius:10px;
+  padding:20px;
+  width:200px;
+}

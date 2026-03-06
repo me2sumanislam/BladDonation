@@ -1,0 +1,27 @@
+ .hero{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:50px;
+  background: linear-gradient(90deg, #ff4b4b, #ff0000);
+  color:white;
+}
+
+.hero-text h1{
+  font-size:48px;
+}
+
+.cta-btn{
+  margin-top:20px;
+  padding:12px 25px;
+  background:white;
+  color:red;
+  border:none;
+  font-weight:bold;
+  cursor:pointer;
+  border-radius:6px;
+}
+
+.hero-img img{
+  width:250px;
+}
